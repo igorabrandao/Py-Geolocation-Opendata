@@ -24,6 +24,8 @@ This project´s goals are:
 1. Download the *py-geolocation-opendata.ipynb*. 
 2. After that, use Jupyter notebook tool and access the directory with the files. Enjoy yourself! :)
 
+*Obs: It´s possible to have a preview acessing py-geolocation-opendata.html*
+
 ### Final considerations ###
 
 The experience of work with Python, geocoder, foliu and open data showed to me the potential of data analysis.
