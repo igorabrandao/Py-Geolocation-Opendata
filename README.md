@@ -11,10 +11,6 @@ of its units in Natal city.
 
 This project´s goals are:
 
-- How much CO² each manifacturer emits?
-- Which fuel type is more ecologically sustainable?
-- The engine capacity implies directly in its pollution emission?
-
 - Generate a Histogram/bar figure reporting the number of "municipal schools" and "health units";
 - Generate a Geocoder figure about those units;
 - Generate a heatmap figure considering the number of employees in each unit.
